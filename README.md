@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>GizliBilgi bir steganografi programıdır. İstediğiniz bilgiyi resim / ses dosyasına gizler ve gizlenmiş bilgileri okumanızı sağlar.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*0zGUNZ-J3eSn-0fQqOiykw.jpeg" alt=""></p>
 <p><strong>Kullanımı</strong></p>
@@ -21,7 +16,3 @@
 <p><a href="http://www.indir.com/koker-gizlibilgi">indir.com</a></p>
 <p><a href="http://www.inndir.com/Koker-GizliBilgi-50374p.html">inndir.com</a></p>
 <p><a href="http://www.tamindir.com/koker-gizlibilgi/">tamindir.com</a></p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
-
