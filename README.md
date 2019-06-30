@@ -21,4 +21,7 @@
 <p><a href="http://www.indir.com/koker-gizlibilgi">indir.com</a></p>
 <p><a href="http://www.inndir.com/Koker-GizliBilgi-50374p.html">inndir.com</a></p>
 <p><a href="http://www.tamindir.com/koker-gizlibilgi/">tamindir.com</a></p>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
 
